@@ -113,7 +113,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Readme template crated by: [1010nishant](https://github.com/1010nishant)
+Readme template created by: [1010nishant](https://github.com/1010nishant)
 
 
 
