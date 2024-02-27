@@ -11,7 +11,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -30,8 +30,6 @@
 - 🌱 I’m currently re-learning **Full-Stack Web Development** after spending some time away from side projects
 
 - ☁️ I'm interested in learning more about **Back-end development** and **game development**.
-
-- 📝 Here is my blog [Dev.to](https://dev.to/kyleortiz)
 
 - 📫 Feel free to reach me out **kyle@kyleo.dev**
 <!--Intro end-->
